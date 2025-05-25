@@ -15,7 +15,7 @@ The dataset consists of labeled images of bees and ants. It is automatically dow
 
 ## Model Training Workflow
 ### 1. Data Preparation
-- The dataset is loaded and transformed using `torchvision.transforms`.
+- The dataset is loaded & transformed using `torchvision.transforms`.
 - Data augmentation techniques improve model robustness.
 
 ### 2. Model Training
